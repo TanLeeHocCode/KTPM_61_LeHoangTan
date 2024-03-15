@@ -1,2 +1,2 @@
-Hello My name is Tan cd: 61_LeHoangTan
-Th�ng tin updtate
+﻿Tập tin này đã được update khi bắt đầu sang buổi học 2 61_LeHoangTan
+Thông tin update
